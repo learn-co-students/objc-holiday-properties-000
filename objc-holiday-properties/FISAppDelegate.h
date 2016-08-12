@@ -6,6 +6,8 @@
 
 @property (strong, nonatomic) UIWindow *window;
 
+@property (strong, nonatomic) NSDictionary *database;
+
 /**
  
  *  Add a new property here.
